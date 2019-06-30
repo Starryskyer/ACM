@@ -9,7 +9,7 @@ This is a Data Interpretation Document.
 
 mnist_data.mat : 784\*10000
 
-mnist_data_1.mat  :784\*10000
+mnist_data_1.mat :784\*10000
 
 2 ,qmnist_test_set
 
@@ -114,3 +114,9 @@ training “0” in files \<00\>, test on mnist_data.
 4), Validation_00_Qmnist_data_1 ,For Qmnist_data_1
 
  
+
+ 
+
+6, \\data\\00\\impressiondata\\
+
+impression_data.mat , 2\*10 cell ,the results of intermediate process.
